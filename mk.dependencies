@@ -1,0 +1,22 @@
+[
+  {
+    "repository": "android_hardware_qcom_display-caf-new",
+    "target_path": "hardware/qcom/display-caf-new"
+  },
+  {
+    "repository": "android_hardware_qcom_media-caf-new",
+    "target_path": "hardware/qcom/media-caf-new"
+  },
+  {
+    "repository": "android_device_qcom_common",
+    "target_path": "device/qcom/common"
+  },
+  {
+    "repository": "android_device_oppo_common",
+    "target_path": "device/oppo/common"
+  },
+  {
+    "repository": "android_vendor_oppo_find7a",
+    "target_path": "vendor/oppo/find7a"
+  }
+]
